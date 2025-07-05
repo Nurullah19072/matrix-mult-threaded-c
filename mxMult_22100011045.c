@@ -1,5 +1,3 @@
-//NURULLAH YILDIRIM
-//22100011045
 /*Bu kodda inputA.txt dosyasını default olarak okuyor kodu çalıştırdığınız zaman dosya adı belirtmeye gerek yok*/
 
 #include <stdio.h>
